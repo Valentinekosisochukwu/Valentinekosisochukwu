@@ -8,8 +8,8 @@
 ### 🧠 About Me  
 - 💻 Currently building an **Klassmate** using React, NextJs & TypeScript   
 - 🎨 Love creating **beautiful, animated UIs** with **Framer Motion**  
-- 🌱 Always learning and exploring **real-time features** and **backend optimizations**  
-<!-- ⚡ Fun fact: I enjoy debugging almost as much as designing! -->
+- 🌱 Always learning and exploring **real-time features** and **backend optimizations**   
+- ⚡ Fun fact: I enjoy debugging almost as much as designing!
 
 ---
 
